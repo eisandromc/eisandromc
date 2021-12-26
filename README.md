@@ -6,7 +6,7 @@ Eu sou Sandro, sou professor e desenvolvedor web!<br>
 Sou entusiasta de tecnologia e curto trabalhar com novas tecnologias. Apaixonado por construir produtos interessantes e incríveis e com propósito.<br><br>
 Problemas? Oba, curto o processo de resolução de problemas e tenho uma sede interminável de conhecimento.<br>
 
-Estou sempre aberto a novas ideias e oportunidades em <a href="javascript:void(0);">#compartilhar</a>, <a href="javascript:void(0);">#colaborar</a> e <a href="javascript:void(0);">#conectar</a> com pessoas.<br><br>
+Estou sempre aberto a novas ideias, oportunidades e em <a href="javascript:void(0);">#compartilhar</a>, <a href="javascript:void(0);">#colaborar</a> e <a href="javascript:void(0);">#conectar</a> com pessoas.<br><br>
 <strong>Curiosidade:</strong> eu ❤️ Astrofísica, Star Trek e assistir filmes e séries de ficção científica.
 
 </p>
