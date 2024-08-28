@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://eisandromc.github.io/eisandromc/animacao.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Teacher/Dev Sandro Martins">
 
 Oi eu sou o Sandro, sou DEV e PROF desde os 17 anos!<br><br>
-Sou entusiasta das tecnologia, curto aprender e desenvolver novos recursos tecnologicos. Apaixonado por construir produtos interessantes e incríveis e com propósito.<br><br>
+Sou entusiasta das tecnologia, curto aprender e desenvolver novos recursos tecnologicos. Apaixonado por construir produtos interessantes, incríveis e com propósito.<br><br>
 Problemas? Oba, curto o processo de resolução de problemas e tenho uma sede interminável de conhecimento.[nerd]<br>
 
 Estou sempre aberto a novas ideias, oportunidades e em <a href="javascript:void(0);">#compartilhar</a>, <a href="javascript:void(0);">#colaborar</a> e <a href="javascript:void(0);">#conectar</a> com pessoas.<br><br>
