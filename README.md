@@ -1,4 +1,4 @@
-<h1 align="left">Hello, world_ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h1>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><h1 align="left">Hello, world_</h1>
 <p align="left">
   <a href="mailto:sandromartinscosta@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=sandromartinscosta@gmail.com" /></a>
