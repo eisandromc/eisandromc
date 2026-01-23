@@ -1,37 +1,28 @@
 <h1 align="left">Hello, world_</h1>
-
-<p align="left"> <img src="https://eisandromc.github.io/eisandromc/animacao.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Teacher/Dev Sandro Martins">
-
-Oi eu sou o Sandro, sou DEV e PROF desde os 17 anos!<br><br>
-Sou entusiasta das tecnologia, curto aprender e desenvolver novos recursos tecnologicos. Apaixonado por construir produtos interessantes, incríveis e com propósito.<br><br>
-Problemas? Oba, curto o processo de resolução de problemas e tenho uma sede interminável de conhecimento.[nerd]<br>
-
-Estou sempre aberto a novas ideias, oportunidades e em <a href="javascript:void(0);">#compartilhar</a>, <a href="javascript:void(0);">#colaborar</a> e <a href="javascript:void(0);">#conectar</a> com pessoas.<br><br>
-<strong>Curiosidade:</strong> eu ❤️ astrofísica, Star Trek, 🍺 e assistir filmes e séries de ficção científica.
-
-</p>
-
-<h3>Contato</h3>
 <p align="left">
   <a href="mailto:sandromartinscosta@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=sandromartinscosta@gmail.com" /></a>
   <a href="https://www.linkedin.com/in/sandromartinscosta/" target="_blank"  alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandromartinscosta/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eisandromc/" /></a>
   <a href="https://www.instagram.com/eisandromc/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eisandromc/"/></a>
 </p>
+<p align="left"> <img src="https://eisandromc.github.io/eisandromc/animacao.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Teacher/Dev Sandro Martins">
+Sou entusiasta das tecnologia, curto aprender e desenvolver novos recursos tecnologicos.<br>
+Apaixonado por construir produtos interessantes, incríveis e com propósito.<br>
+Problemas fazem parte do caminho. Valorizo o processo de análise, decisão e resolução, sempre movido pela curiosidade e pelo aprendizado contínuo.<br>
+Meu foco está em criar sistemas claros, sustentáveis e úteis em contextos reais.<br>
+Se algo aqui for útil, sinta-se à vontade para explorar, fazer fork ou iniciar uma conversa.<br> 
+<br><br>
+I am passionate about technology and enjoy learning and developing new technical solutions.<br>
+I like building meaningful products with purpose and real value.<br>
+Problems are part of the journey. I value the process of analysis, decision-making, and problem solving, driven by curiosity and continuous learning.<br>
+My focus is on creating clear, sustainable systems that are useful in real-world contexts.<br>
+If something here is useful, feel free to explore, fork, or start a conversation.<br>
+</p>
 
-<div align="center">
-  <a href="https://github.com/eisandromc" target="_blank">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=eisandromc&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  </a>
-    <a href="https://github.com/eisandromc" target="_blank">
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eisandromc&layout=compact&langs_count=7&theme=vue"/>
-  </a>
-</div>
 
-<h3 style="font-style:italic">Skills</h3>
-
+<h3 style="font-style:italic">Tecnologias e ferramentas | Technologies and tools</h3>
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
