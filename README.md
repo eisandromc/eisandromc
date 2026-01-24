@@ -1,4 +1,5 @@
-<h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Hello, world_</h1>
+<h1 align="left">👨🏻‍💻 Hello, world_</h1>
+<h3 align="center"></h3>
 <p align="left">
   <a href="mailto:sandromartinscosta@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=sandromartinscosta@gmail.com" /></a>
@@ -14,17 +15,14 @@
 - Problemas fazem parte do caminho. Valorizo o processo de análise, decisão e resolução, sempre movido pela curiosidade e pelo aprendizado contínuo.<br>
 - Meu foco está em criar sistemas claros, sustentáveis e úteis em contextos reais.<br>
 - Se algo aqui for útil, sinta-se à vontade para explorar, fazer fork ou iniciar uma conversa.<br> 
-<br>
+<hr>
 - I am passionate about technology and enjoy learning and developing new technical solutions.<br>
 - I like building meaningful products with purpose and real value.<br>
 - Problems are part of the journey. I value the process of analysis, decision-making, and problem solving, driven by curiosity and continuous learning.<br>
 - My focus is on creating clear, sustainable systems that are useful in real-world contexts.<br>
 - If something here is useful, feel free to explore, fork, or start a conversation.<br>
 </p>
-
-
 <h3 style="font-style:italic">Tecnologias e ferramentas | Technologies and tools</h3>
-
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -49,12 +47,4 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eisandromc/eisandromc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eisandromc/eisandromc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eisandromc/eisandromc/output/pacman-contribution-graph.svg">
-</picture>
-###
-<img src="https://raw.githubusercontent.com/eisandromc/eisandromc/output/snake.svg" alt="Snake animation" />
-###
+
