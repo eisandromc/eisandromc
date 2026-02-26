@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eisandromc/"/></a>
 </p>
 <h3 style="font-style:italic">Sobre | About</h3>
-<p align="left"> <img src="https://eisandromc.github.io/eisandromc/animacao.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Teacher/Dev Sandro Martins">
+<p align="left"><img src="https://eisandromc.github.io/eisandromc/animacao.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Teacher/Dev Sandro Martins">
 - Sou entusiasta das tecnologia, curto aprender e desenvolver novos recursos tecnologicos.<br>
 - Apaixonado por construir produtos interessantes, incríveis e com propósito.<br>
 - Problemas fazem parte do caminho. Valorizo o processo de análise, decisão e resolução, sempre movido pela curiosidade e pelo aprendizado contínuo.<br>
