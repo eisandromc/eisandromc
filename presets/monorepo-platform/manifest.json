@@ -1,0 +1,17 @@
+{
+  "agents": [
+    "investigador-de-codigo",
+    "planejador-de-tarefas",
+    "arquiteto-de-software",
+    "implementador",
+    "testes",
+    "revisor-tecnico",
+    "devops"
+  ],
+  "skills": [
+    "monorepo-navigation",
+    "repo-map",
+    "implementation-plan",
+    "ci-cd"
+  ]
+}

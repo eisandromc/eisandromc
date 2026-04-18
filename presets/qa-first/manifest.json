@@ -1,0 +1,15 @@
+{
+  "agents": [
+    "investigador-de-codigo",
+    "implementador",
+    "testes",
+    "revisor-tecnico",
+    "documentador-tecnico"
+  ],
+  "skills": [
+    "unit-tests",
+    "integration-tests",
+    "regression-tests",
+    "pr-review-checklist"
+  ]
+}

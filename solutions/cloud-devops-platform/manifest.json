@@ -1,0 +1,39 @@
+{
+  "name": "cloud-devops-platform",
+  "title": "Cloud DevOps Platform",
+  "description": "Solução para infraestrutura, pipeline, observabilidade e release contínuo.",
+  "agents": [
+    "investigador-de-codigo.agent.md",
+    "arquiteto-de-software.agent.md",
+    "devops.agent.md",
+    "observabilidade.agent.md",
+    "seguranca.agent.md",
+    "revisor-tecnico.agent.md",
+    "documentador-tecnico.agent.md",
+    "docker.agent.md",
+    "kubernetes.agent.md",
+    "terraform.agent.md",
+    "github-actions.agent.md",
+    "aws.agent.md",
+    "azure.agent.md",
+    "gcp.agent.md"
+  ],
+  "skills": [
+    "ci-cd",
+    "release-checklist",
+    "monorepo-governance",
+    "security-review",
+    "performance-review",
+    "infra-terraform",
+    "incident-triage"
+  ],
+  "stacks": [
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "GitHub Actions",
+    "AWS",
+    "Azure",
+    "GCP"
+  ]
+}

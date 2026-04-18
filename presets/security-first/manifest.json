@@ -1,0 +1,17 @@
+{
+  "agents": [
+    "investigador-de-codigo",
+    "arquiteto-de-software",
+    "implementador",
+    "testes",
+    "revisor-tecnico",
+    "seguranca",
+    "documentador-tecnico"
+  ],
+  "skills": [
+    "security-review",
+    "dependency-audit",
+    "api-contract-review",
+    "regression-tests"
+  ]
+}

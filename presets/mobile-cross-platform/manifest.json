@@ -1,0 +1,15 @@
+{
+  "agents": [
+    "investigador-de-codigo",
+    "arquiteto-de-software",
+    "implementador",
+    "testes",
+    "revisor-tecnico",
+    "release"
+  ],
+  "skills": [
+    "mobile-release-checklist",
+    "regression-tests",
+    "unit-tests"
+  ]
+}

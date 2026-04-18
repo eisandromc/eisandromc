@@ -1,0 +1,28 @@
+{
+  "descricao": "Pacote para Android, iOS, Flutter e React Native, com foco em build, release e qualidade.",
+  "agents": [
+    "investigador-de-codigo.agent.md",
+    "implementador.agent.md",
+    "testes.agent.md",
+    "revisor-tecnico.agent.md",
+    "documentador-tecnico.agent.md",
+    "dart.agent.md",
+    "flutter.agent.md",
+    "react-native.agent.md",
+    "android.agent.md",
+    "ios.agent.md",
+    "swift.agent.md",
+    "kotlin.agent.md",
+    "firebase.agent.md",
+    "release.agent.md"
+  ],
+  "skills": [
+    "stack-detection",
+    "repo-map",
+    "implementation-plan",
+    "unit-tests",
+    "integration-tests",
+    "mobile-release-checklist",
+    "performance-baseline"
+  ]
+}

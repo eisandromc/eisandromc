@@ -1,0 +1,22 @@
+{
+  "descricao": "Pacote mínimo para quase todo repositório profissional.",
+  "agents": [
+    "investigador-de-codigo.agent.md",
+    "arquiteto-de-software.agent.md",
+    "implementador.agent.md",
+    "testes.agent.md",
+    "revisor-tecnico.agent.md",
+    "documentador-tecnico.agent.md",
+    "devops.agent.md"
+  ],
+  "skills": [
+    "repo-map",
+    "implementation-plan",
+    "unit-tests",
+    "integration-tests",
+    "pr-review-checklist",
+    "ci-cd",
+    "release-checklist",
+    "bug-triage"
+  ]
+}

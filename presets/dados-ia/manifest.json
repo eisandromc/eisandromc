@@ -1,0 +1,31 @@
+{
+  "descricao": "Pacote para pipelines de dados, APIs analíticas, automação científica e workloads de IA.",
+  "agents": [
+    "investigador-de-codigo.agent.md",
+    "arquiteto-de-software.agent.md",
+    "implementador.agent.md",
+    "testes.agent.md",
+    "revisor-tecnico.agent.md",
+    "documentador-tecnico.agent.md",
+    "performance.agent.md",
+    "python.agent.md",
+    "data-ai.agent.md",
+    "sql.agent.md",
+    "postgresql.agent.md",
+    "mongodb.agent.md",
+    "docker.agent.md",
+    "aws.agent.md",
+    "azure.agent.md",
+    "gcp.agent.md"
+  ],
+  "skills": [
+    "stack-detection",
+    "repo-map",
+    "implementation-plan",
+    "unit-tests",
+    "integration-tests",
+    "performance-baseline",
+    "database-migration-safety",
+    "dependency-audit"
+  ]
+}

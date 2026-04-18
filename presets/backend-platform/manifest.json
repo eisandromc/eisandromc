@@ -1,0 +1,17 @@
+{
+  "agents": [
+    "investigador-de-codigo",
+    "arquiteto-de-software",
+    "implementador",
+    "banco-de-dados",
+    "apis-e-integracoes",
+    "testes",
+    "revisor-tecnico"
+  ],
+  "skills": [
+    "api-contract-review",
+    "database-migration-safety",
+    "unit-tests",
+    "integration-tests"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "agents": [
+    "investigador-de-codigo",
+    "banco-de-dados",
+    "data-ai",
+    "performance",
+    "testes",
+    "revisor-tecnico"
+  ],
+  "skills": [
+    "database-migration-safety",
+    "performance-baseline",
+    "integration-tests"
+  ]
+}

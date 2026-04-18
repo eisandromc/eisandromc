@@ -1,0 +1,37 @@
+{
+  "name": "stack-alvo-prof-sandro-platform",
+  "description": "Solução ultra-especializada para PHP, TypeScript, Flutter, Dart, C#, Docker, AWS e GitHub Actions.",
+  "recommended_agents": [
+    "investigador-de-codigo",
+    "arquiteto-de-software",
+    "implementador",
+    "testes",
+    "revisor-tecnico",
+    "documentador-tecnico",
+    "php",
+    "typescript",
+    "flutter",
+    "dart",
+    "csharp",
+    "docker",
+    "aws",
+    "github-actions",
+    "devops",
+    "seguranca",
+    "observabilidade"
+  ],
+  "recommended_skills": [
+    "repo-map",
+    "implementation-plan",
+    "unit-tests",
+    "integration-tests",
+    "php-quality-gate",
+    "typescript-contract-check",
+    "flutter-release-readiness",
+    "dotnet-delivery-gate",
+    "docker-runtime-audit",
+    "aws-change-impact",
+    "github-actions-hardening",
+    "cross-stack-contract-audit"
+  ]
+}

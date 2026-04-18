@@ -1,0 +1,16 @@
+{
+  "agents": [
+    "investigador-de-codigo",
+    "arquiteto-de-software",
+    "implementador",
+    "acessibilidade",
+    "performance",
+    "testes",
+    "revisor-tecnico"
+  ],
+  "skills": [
+    "performance-baseline",
+    "pr-review-checklist",
+    "regression-tests"
+  ]
+}

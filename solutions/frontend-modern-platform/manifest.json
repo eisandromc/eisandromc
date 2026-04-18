@@ -1,0 +1,44 @@
+{
+  "name": "frontend-modern-platform",
+  "title": "Modern Frontend Platform",
+  "description": "Solução para front moderno com TypeScript, React, Next.js, Vue ou Angular.",
+  "agents": [
+    "investigador-de-codigo.agent.md",
+    "arquiteto-de-software.agent.md",
+    "implementador.agent.md",
+    "testes.agent.md",
+    "revisor-tecnico.agent.md",
+    "acessibilidade.agent.md",
+    "performance.agent.md",
+    "documentador-tecnico.agent.md",
+    "typescript.agent.md",
+    "javascript.agent.md",
+    "react.agent.md",
+    "nextjs.agent.md",
+    "vue.agent.md",
+    "angular.agent.md",
+    "astro.agent.md",
+    "nuxt.agent.md",
+    "github-actions.agent.md"
+  ],
+  "skills": [
+    "repo-map",
+    "implementation-plan",
+    "unit-tests",
+    "integration-tests",
+    "accessibility-audit",
+    "performance-review",
+    "ci-cd"
+  ],
+  "stacks": [
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Vue",
+    "Angular",
+    "Astro",
+    "Nuxt",
+    "GitHub Actions"
+  ]
+}

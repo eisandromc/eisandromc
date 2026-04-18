@@ -1,0 +1,16 @@
+{
+  "agents": [
+    "investigador-de-codigo",
+    "devops",
+    "github-actions",
+    "observabilidade",
+    "seguranca",
+    "revisor-tecnico"
+  ],
+  "skills": [
+    "ci-cd",
+    "dependency-audit",
+    "release-checklist",
+    "security-review"
+  ]
+}
