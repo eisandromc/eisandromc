@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150" role="img">
+<title>20+ anos de experiência · 5.000+ alunos formados</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#F5FAFE"/><stop offset="1" stop-color="#EAF3FD"/>
+  </linearGradient>
+  <linearGradient id="borda" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0191FE"/><stop offset=".33" stop-color="#06C989"/>
+    <stop offset=".66" stop-color="#FEC703"/><stop offset="1" stop-color="#FB2255"/>
+  </linearGradient>
+</defs>
+<style>
+  .t{font-family:'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif;fill:#142A6E}
+  .m{font-family:'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif;fill:#55648F}
+  .c{font-family:'Cascadia Code', 'Fira Code', Consolas, monospace}
+</style>
+<rect x="1.25" y="1.25" width="427.5" height="147.5" rx="18" fill="url(#bg)" stroke="url(#borda)" stroke-width="2.5"/>
+<rect x="28" y="26" width="28" height="5" rx="2.5" fill="#0191FE"/>
+<text x="28" y="86" class="t" font-size="50" font-weight="800" style="fill:#0177D4">20+</text>
+<text x="28" y="112" class="t" font-size="17" font-weight="700">anos de experiência</text>
+<text x="28" y="132" class="m" font-size="13">em código, produto e ensino</text>
+<rect x="451.25" y="1.25" width="427.5" height="147.5" rx="18" fill="url(#bg)" stroke="url(#borda)" stroke-width="2.5"/>
+<rect x="478" y="26" width="28" height="5" rx="2.5" fill="#06C989"/>
+<text x="478" y="86" class="t" font-size="50" font-weight="800" style="fill:#03A06D">5.000+</text>
+<text x="478" y="112" class="t" font-size="17" font-weight="700">alunos formados</text>
+<text x="478" y="132" class="m" font-size="13">em programação e engenharia de software</text>
+</svg>

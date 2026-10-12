@@ -1,0 +1,30 @@
+# Claude Code
+.claude/
+.claude.json
+.claude.json.*
+CLAUDE.local.md
+.mcp.json
+
+# OpenAI Codex
+.codex/
+codex.log
+*.codex.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.zip

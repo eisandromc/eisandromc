@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img">
+<title>Engenharia · IA aplicada · Educação</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#F5FAFE"/><stop offset="1" stop-color="#EAF3FD"/>
+  </linearGradient>
+  <linearGradient id="borda" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0191FE"/><stop offset=".33" stop-color="#06C989"/>
+    <stop offset=".66" stop-color="#FEC703"/><stop offset="1" stop-color="#FB2255"/>
+  </linearGradient>
+</defs>
+<style>
+  .t{font-family:'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif;fill:#142A6E}
+  .m{font-family:'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif;fill:#55648F}
+  .c{font-family:'Cascadia Code', 'Fira Code', Consolas, monospace}
+</style>
+<rect x="1.25" y="1.25" width="277.5" height="197.5" rx="18" fill="url(#bg)" stroke="url(#borda)" stroke-width="2.5"/>
+<text x="24" y="50" class="c" font-size="15" font-weight="700" style="fill:#0177D4">01 /</text>
+<text x="24" y="84" class="t" font-size="24" font-weight="800">Engenharia</text>
+<text x="24" y="118" class="m" font-size="14">Arquitetura, APIs e dados</text>
+<text x="24" y="140" class="m" font-size="14">pensados para durar, com código</text>
+<text x="24" y="162" class="m" font-size="14">que outra pessoa entende.</text>
+<rect x="301.25" y="1.25" width="277.5" height="197.5" rx="18" fill="url(#bg)" stroke="url(#borda)" stroke-width="2.5"/>
+<text x="324" y="50" class="c" font-size="15" font-weight="700" style="fill:#03A06D">02 /</text>
+<text x="324" y="84" class="t" font-size="24" font-weight="800">IA aplicada</text>
+<text x="324" y="118" class="m" font-size="14">Automação inteligente para</text>
+<text x="324" y="140" class="m" font-size="14">problemas reais, sem terceirizar</text>
+<text x="324" y="162" class="m" font-size="14">o raciocínio.</text>
+<rect x="601.25" y="1.25" width="277.5" height="197.5" rx="18" fill="url(#bg)" stroke="url(#borda)" stroke-width="2.5"/>
+<text x="624" y="50" class="c" font-size="15" font-weight="700" style="fill:#E0174A">03 /</text>
+<text x="624" y="84" class="t" font-size="24" font-weight="800">Educação</text>
+<text x="624" y="118" class="m" font-size="14">Do primeiro commit ao</text>
+<text x="624" y="140" class="m" font-size="14">primeiro deploy, com aulas</text>
+<text x="624" y="162" class="m" font-size="14">ativas e projetos reais.</text>
+</svg>

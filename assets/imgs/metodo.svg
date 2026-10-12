@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="486" viewBox="0 0 880 486" role="img">
+<title>Modelo 20-70-10: 20% introdução e base, 70% prática e problemas, 10% consolidação. Aprendizagem Baseada em Problemas, Aprendizagem Baseada em Projetos, Cultura Maker e STEAM. Foco no protagonismo estudantil e no desenvolvimento integral</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#F5FAFE"/><stop offset="1" stop-color="#EAF3FD"/>
+  </linearGradient>
+  <linearGradient id="borda" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0191FE"/><stop offset=".33" stop-color="#06C989"/>
+    <stop offset=".66" stop-color="#FEC703"/><stop offset="1" stop-color="#FB2255"/>
+  </linearGradient>
+</defs>
+<style>
+  .t{font-family:'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif;fill:#142A6E}
+  .m{font-family:'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif;fill:#55648F}
+  .c{font-family:'Cascadia Code', 'Fira Code', Consolas, monospace}
+</style>
+<rect x="1.25" y="1.25" width="877.5" height="483.5" rx="22" fill="url(#bg)" stroke="url(#borda)" stroke-width="2.5"/>
+<text x="32" y="48" class="c" font-size="13" font-weight="700" letter-spacing="1.5" style="fill:#0177D4">COMO EU ENSINO</text>
+<text x="32" y="80" class="t" font-size="24" font-weight="800">Modelo 20-70-10</text>
+<clipPath id="bar"><rect x="32" y="104" width="816" height="46" rx="12"/></clipPath><g clip-path="url(#bar)">
+<rect x="32.0" y="104" width="163.2" height="46" fill="#0191FE"/>
+<rect x="195.2" y="104" width="571.2" height="46" fill="#06C989"/>
+<rect x="766.4" y="104" width="81.6" height="46" fill="#FB2255"/>
+</g>
+<text x="113.6" y="134" text-anchor="middle" class="t" font-size="18" font-weight="800" style="fill:#FFFFFF">20%</text>
+<text x="34.0" y="176" text-anchor="start" class="t" font-size="14" font-weight="700">Introdução e base</text>
+<text x="34.0" y="195" text-anchor="start" class="m" font-size="12.5">conceitos essenciais</text>
+<text x="480.8" y="134" text-anchor="middle" class="t" font-size="18" font-weight="800" style="fill:#FFFFFF">70%</text>
+<text x="197.2" y="176" text-anchor="start" class="t" font-size="14" font-weight="700">Prática e problemas</text>
+<text x="197.2" y="195" text-anchor="start" class="m" font-size="12.5">mão no código, desafios reais</text>
+<text x="807.2" y="134" text-anchor="middle" class="t" font-size="18" font-weight="800" style="fill:#FFFFFF">10%</text>
+<text x="848.0" y="176" text-anchor="end" class="t" font-size="14" font-weight="700">Consolidação</text>
+<text x="848.0" y="195" text-anchor="end" class="m" font-size="12.5">compartilhar · tirar dúvidas · aprofundar</text>
+<rect x="32.0" y="232" width="192.0" height="76" rx="14" fill="#FFFFFF" stroke="#0191FE" stroke-width="2"/>
+<circle cx="54.0" cy="270" r="7" fill="#0191FE"/>
+<text x="72.0" y="264" class="m" font-size="12.5">Aprendizagem baseada</text>
+<text x="72.0" y="286" class="t" font-size="17" font-weight="800">em Problemas</text>
+<rect x="240.0" y="232" width="192.0" height="76" rx="14" fill="#FFFFFF" stroke="#06C989" stroke-width="2"/>
+<circle cx="262.0" cy="270" r="7" fill="#06C989"/>
+<text x="280.0" y="264" class="m" font-size="12.5">Aprendizagem baseada</text>
+<text x="280.0" y="286" class="t" font-size="17" font-weight="800">em Projetos</text>
+<rect x="448.0" y="232" width="192.0" height="76" rx="14" fill="#FFFFFF" stroke="#FEC703" stroke-width="2"/>
+<circle cx="470.0" cy="270" r="7" fill="#FEC703"/>
+<text x="488.0" y="264" class="m" font-size="12.5">Cultura</text>
+<text x="488.0" y="286" class="t" font-size="17" font-weight="800">Maker</text>
+<rect x="656.0" y="232" width="192.0" height="76" rx="14" fill="#FFFFFF" stroke="#FB2255" stroke-width="2"/>
+<circle cx="678.0" cy="270" r="7" fill="#FB2255"/>
+<text x="696.0" y="264" class="m" font-size="12.5">Abordagem</text>
+<text x="696.0" y="286" class="t" font-size="17" font-weight="800">STEAM</text>
+<line x1="32" y1="334" x2="848" y2="334" stroke="#D6E2F3" stroke-width="1.5"/>
+<text x="32" y="366" class="c" font-size="13" font-weight="700" letter-spacing="1.5" style="fill:#03A06D">FOCO NO ESTUDANTE</text>
+<rect x="32.0" y="384" width="210.8" height="32" rx="16" fill="#0191FE" fill-opacity=".12" stroke="#0191FE" stroke-width="1.5"/>
+<circle cx="48.0" cy="400" r="4.5" fill="#0191FE"/>
+<text x="60.0" y="405" class="t" font-size="13.5" font-weight="700">Protagonismo estudantil</text>
+<rect x="252.8" y="384" width="172.8" height="32" rx="16" fill="#06C989" fill-opacity=".12" stroke="#06C989" stroke-width="1.5"/>
+<circle cx="268.8" cy="400" r="4.5" fill="#06C989"/>
+<text x="280.8" y="405" class="t" font-size="13.5" font-weight="700">Participação ativa</text>
+<rect x="435.6" y="384" width="104.4" height="32" rx="16" fill="#FEC703" fill-opacity=".12" stroke="#FEC703" stroke-width="1.5"/>
+<circle cx="451.6" cy="400" r="4.5" fill="#FEC703"/>
+<text x="463.6" y="405" class="t" font-size="13.5" font-weight="700">Autonomia</text>
+<rect x="550.0" y="384" width="157.6" height="32" rx="16" fill="#FB2255" fill-opacity=".12" stroke="#FB2255" stroke-width="1.5"/>
+<circle cx="566.0" cy="400" r="4.5" fill="#FB2255"/>
+<text x="578.0" y="405" class="t" font-size="13.5" font-weight="700">Responsabilidade</text>
+<rect x="717.6" y="384" width="119.6" height="32" rx="16" fill="#0191FE" fill-opacity=".12" stroke="#0191FE" stroke-width="1.5"/>
+<circle cx="733.6" cy="400" r="4.5" fill="#0191FE"/>
+<text x="745.6" y="405" class="t" font-size="13.5" font-weight="700">Curiosidade</text>
+<rect x="32.0" y="426" width="96.8" height="32" rx="16" fill="#06C989" fill-opacity=".12" stroke="#06C989" stroke-width="1.5"/>
+<circle cx="48.0" cy="442" r="4.5" fill="#06C989"/>
+<text x="60.0" y="447" class="t" font-size="13.5" font-weight="700">Respeito</text>
+<rect x="138.8" y="426" width="218.4" height="32" rx="16" fill="#FEC703" fill-opacity=".12" stroke="#FEC703" stroke-width="1.5"/>
+<circle cx="154.8" cy="442" r="4.5" fill="#FEC703"/>
+<text x="166.8" y="447" class="t" font-size="13.5" font-weight="700">Desenvolvimento integral</text>
+</svg>
