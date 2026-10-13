@@ -1,0 +1,29 @@
+name: Relatar um problema
+description: Informe falhas no perfil, imagens, conteúdo ou links.
+title: '[Bug] '
+body:
+  - type: markdown
+    attributes:
+      value: 'Não publique senhas, tokens, dados privados de estudantes ou clientes.'
+  - type: input
+    id: local
+    attributes:
+      label: Onde está o problema?
+      description: Informe seção, arquivo ou link.
+      placeholder: 'README.md > seção Projetos'
+    validations:
+      required: true
+  - type: textarea
+    id: comportamento
+    attributes:
+      label: Problema observado
+      description: Descreva o comportamento e o resultado esperado.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduzir
+    attributes:
+      label: Como reproduzir ou verificar
+      description: Passos e evidências públicas, quando disponíveis.
+    validations:
+      required: false
