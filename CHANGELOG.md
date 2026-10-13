@@ -4,7 +4,7 @@ Todas as mudanças relevantes deste repositório são registradas aqui.
 
 O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e as versões seguem o [Versionamento Semântico](https://semver.org/lang/pt-BR/), conforme a seção 5 do [INSTRUCTIONS.md](INSTRUCTIONS.md).
 
-## [0.2.0] - 2026-10-12
+## [1.2.0] - 2026-10-12
 
 Construção do perfil profissional, da identidade visual e do padrão de engenharia Git e GitHub.
 
@@ -60,7 +60,7 @@ Construção do perfil profissional, da identidade visual e do padrão de engenh
   - marca, personagens, imagens e textos: todos os direitos reservados;
   - trechos de código e configuração: licença MIT.
 
-## [0.1.0] - 2026-10-12
+## [1.1.0] - 2026-10-12
 
 Criação do repositório de perfil `eisandromc/eisandromc` ([824aefb](https://github.com/eisandromc/eisandromc/commit/824aefb)).
 
@@ -69,5 +69,5 @@ Criação do repositório de perfil `eisandromc/eisandromc` ([824aefb](https://g
 - **README** com o modelo padrão do GitHub para repositórios de perfil ("Hi there 👋"), com as sugestões de preenchimento comentadas.
 - **LICENSE** com a licença MIT.
 
-[0.2.0]: https://github.com/eisandromc/eisandromc/compare/824aefb...main
-[0.1.0]: https://github.com/eisandromc/eisandromc/commit/824aefb
+[1.2.0]: https://github.com/eisandromc/eisandromc/compare/824aefb...main
+[1.1.0]: https://github.com/eisandromc/eisandromc/commit/824aefb
