@@ -1,0 +1,36 @@
+name: Validar perfil
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - assets/**
+      - scripts/**
+      - tests/**
+      - .github/**
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - assets/**
+      - scripts/**
+      - tests/**
+      - .github/**
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    name: Conferir README e assets
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+      - name: Executar testes do validador
+        run: python3 -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Verificar referências e recursos visuais
+        run: python3 scripts/check_profile_assets.py

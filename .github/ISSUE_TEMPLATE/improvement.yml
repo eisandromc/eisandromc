@@ -1,0 +1,28 @@
+name: Propor uma melhoria
+description: Sugira melhorias de conteúdo, acessibilidade, experiência ou organização.
+title: '[Melhoria] '
+body:
+  - type: markdown
+    attributes:
+      value: 'Propostas devem preservar os direitos da marca e evitar dados pessoais.'
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: Objetivo da melhoria
+      description: Qual problema ou oportunidade deseja abordar?
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Alteração proposta
+      description: Explique o que mudaria, sem exigir uma implementação específica.
+    validations:
+      required: true
+  - type: textarea
+    id: aceite
+    attributes:
+      label: Critérios de aceite
+      description: Como verificar que a melhoria funcionou?
+    validations:
+      required: false
